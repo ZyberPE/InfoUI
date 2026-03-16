@@ -1,0 +1,18 @@
+name: InfoUI
+main: InfoUI\Main
+version: 1.0.0
+api: 5.0.0
+author: ZyberPE
+
+depend:
+  - FormAPI
+
+commands:
+  info:
+    description: View server information
+    usage: "/info"
+    permission: infoui.use
+
+permissions:
+  infoui.use:
+    default: true
