@@ -1,0 +1,20 @@
+form:
+  title: "&bServer Information"
+
+  content: |
+    &eWelcome to the server!
+
+    &fHere is some useful information:
+
+    &a• Use /spawn to return to spawn
+    &a• Use /rules to read server rules
+    &a• Use /report to report players
+    &a• Use /shop to buy items
+
+    &bHave fun and enjoy your time here!
+
+  close-button: "&cClose"
+
+messages:
+  open: "&eOpening server information..."
+  close: "&7You can view this again using &b/info"
